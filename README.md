@@ -1,5 +1,3 @@
-# queries_on_sales
-
 # Sales Trend Analysis Using SQL
 
 ## Overview
